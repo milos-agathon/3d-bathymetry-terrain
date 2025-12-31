@@ -7,7 +7,9 @@ Render a **3D terrain map of Italy** with:
 - **Lake polygons** drawn on top
 - **HDRI environment lighting** for a clean, “cinematic” final render
 
-The script downloads the needed boundary, lake, bathymetry, and HDRI assets, builds a heightmap + overlays, then exports a **high-resolution PNG**.
+The script downloads the required boundary, lake, bathymetry, and HDRI assets, builds a heightmap + overlays, then exports a **high-resolution PNG**.
+
+![alt text](https://github.com/milos-agathon/3d-bathymetry-terrain/blob/main/italy.png?raw=true)
 
 ---
 
