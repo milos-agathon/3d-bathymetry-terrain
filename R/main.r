@@ -142,7 +142,7 @@ pal_bathy <- colorRampPalette(
     cols
 )(256)
 
-source("https://raw.githubusercontent.com/milos-agathon/3d-bathymetry-terrain/refs/heads/main/R/colorize_to_png.R?token=GHSAT0AAAAAADHDWZIWVC5JVTO3S2DFYWTY2KL5TAQ")
+source("https://raw.githubusercontent.com/milos-agathon/3d-bathymetry-terrain/refs/heads/main/R/colorize_to_png.R")
 
 png_path <- colorize_to_png(
     x = bathy_sea,
